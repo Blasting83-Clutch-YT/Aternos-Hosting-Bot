@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "Technoblade", // Change For Your Username
+    "username": "Test67", // Change For Your Username
     "password": "", // DO NOT CHANGE
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me", // Change For Your IP 
-    "port": 56559, // Change For Your Port
+    "ip": "waguriismp.aternos.me", // Change For Your IP 
+    "port": 58031, // Change For Your Port
     "version": "1.21.1"
   },
   "position": {
